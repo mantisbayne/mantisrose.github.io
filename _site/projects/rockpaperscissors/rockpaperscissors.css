@@ -1,0 +1,24 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 36px;
+}
+
+.container {
+	width: 1140px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.button {
+	margin: 40px;
+	border: 3px solid gray;
+	border-radius: 40px;
+	padding: 20px;
+	font-family: Arial, sans-serif;
+	font-size: 36px;
+	box-shadow: 0 0 10px;
+}
+
+.button:hover {
+	background-color: #E6E6FA;
+}

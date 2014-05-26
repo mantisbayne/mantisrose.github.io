@@ -1,0 +1,4 @@
+name: Mantis' Blog
+markdown: redcarpet
+pygments: true
+paginate: 5
